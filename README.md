@@ -3,10 +3,6 @@ I am a Computer Science student at Universitas Islam Riau, with a strong interes
 
 I have hands-on experience with Power Apps and Power Automate, as well as SQL Database and Microsoft Dynamics 365. I am skilled in problem-solving, effective communication, and collaboration, and can convey technical concepts to both technical and non-technical audiences.
 
-- 👀 I’m interested in Programmer
-- 🌱 I’m currently learning Web Development & Data Science
-- 💞️ I’m looking to collaborate on Technology Company
-
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
