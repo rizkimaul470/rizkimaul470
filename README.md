@@ -16,12 +16,11 @@ I am a Computer Science student at Universitas Islam Riau, with a strong interes
 </a>
 </p>
 
-### Reach me on
+<!---### Reach me on
 - <a href="https://linkedin.com/in/rizkimaul/">LinkedIn</a>
 - <a href="https://rizkimaul.netlify.app">Pesonal Web Portofolio</a>
 - maulanarizki587@gmail.com
 
-<!---
 rizkimaul470/rizkimaul470 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
