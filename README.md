@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Rizki.
-I am a Computer Science student at Universitas Islam Riau, with a strong interest in Plower Platform Development, Web Development and Data Science. I have worked on small projects in these areas, using technologies such as HTML, CSS, PHP, Javascript, React.js, Tailwindcss, and Laravel. I am also familiar with data processing, filtering, and visualization using Python (Google Colab, Jupyter, and PowerBI). I am skilled in problem-solving, effective communication, and collaboration, and can convey technical concepts to both technical and non-technical audiences.
+I am a Computer Science student at Universitas Islam Riau, with a strong interest in Plower Platform Development, Web Development and Data Science. I am skilled in problem-solving, effective communication, and collaboration, and can convey technical concepts to both technical and non-technical audiences.
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
