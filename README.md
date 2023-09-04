@@ -1,5 +1,5 @@
 ### Hi! 👋 I'm Rizki.
-I'm a Computer Science student at Universitas Islam Riau, with a strong interest in Microsoft Dynamics 365, Web Development, Cloud Computing and Machine Learning. I am skilled in problem-solving, effective communication, and collaboration, and can convey technical concepts to both technical and non-technical audiences.
+I'm a Computer Science student at Universitas Islam Riau, with a strong interest in Microsoft Power Platform 365, Web Development, Cloud Computing and Machine Learning. I am skilled in problem-solving, effective communication, and collaboration, and can convey technical concepts to both technical and non-technical audiences.
 
 ### Tech Stack
   <a href="https://getbootstrap.com/"><img align="left" alt="Bootstrap" title="Bootstrap" width="29px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" /></a>
